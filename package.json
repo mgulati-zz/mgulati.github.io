@@ -1,0 +1,36 @@
+{
+<<<<<<< HEAD
+  "name": "MayankGulati",
+  "description": "Site for stalking mayank",
+  "author": "mayank",
+=======
+  "name": "LesiaNalepa",
+  "description": "Site for stalking lesia",
+  "author": "lesia",
+>>>>>>> d877ea73fba210b02a8226fb4252cac8c95e1c27
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6"
+  },
+  "repository": {
+    "type": "git",
+<<<<<<< HEAD
+    "url": "https://github.com/mgulati/MayankGulatiSite.git"
+=======
+    "url": "https://github.com/mgulati/Lesia-Personal-Site.git"
+>>>>>>> d877ea73fba210b02a8226fb4252cac8c95e1c27
+  },
+  "engines": {
+    "node": "0.10.12",
+    "npm": "1.3.0"
+  },
+<<<<<<< HEAD
+  "subdomain": "mayankgulati",
+=======
+  "subdomain": "lesianalepa",
+>>>>>>> d877ea73fba210b02a8226fb4252cac8c95e1c27
+  "scripts": {
+    "start": "app.js"
+  }
+}
